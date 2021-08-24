@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VarinderBhatti29
+- 👀 I’m interested in Artificial Intelligence and Computer Science in general.
+- 🌱 I’m currently learning Full Stack Web Dev and Java
